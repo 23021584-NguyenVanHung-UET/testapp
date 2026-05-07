@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'Tôi là Hưng',
+            'Tôi là Bachs',
             style: TextStyle(
               fontSize: 32, // Chỉnh kích cỡ chữ to lên
               fontWeight: FontWeight.bold, // In đậm chữ
